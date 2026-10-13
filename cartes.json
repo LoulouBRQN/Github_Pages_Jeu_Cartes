@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "nom": "Aoi Todo",
+    "manga": "Jujutsu kaisen",
+    "image": "AoiTodo.png",
+    "force": 84,
+    "intelligence": 75,
+    "agilite": 81,
+    "dangerosite": 83
+  },
+  {
+    "id": 2,
+    "nom": "Ban",
+    "manga": "Seven deadly sins",
+    "image": "Ban.jpg",
+    "force": 95,
+    "intelligence": 71,
+    "agilite": 89,
+    "dangerosite": 97
+  },
+  {
+    "id": 3,
+    "nom": "Cochignon",
+    "manga": "Pokemon",
+    "image": "Cochignon.png",
+    "force": 78,
+    "intelligence": 35,
+    "agilite": 25,
+    "dangerosite": 61
+  },
+  {
+    "id": 4,
+    "nom": "Coco",
+    "manga": "L'Atelier des sorciers",
+    "image": "Coco.jpg",
+    "force": 31,
+    "intelligence": 88,
+    "agilite": 55,
+    "dangerosite": 65
+  },
+  {
+    "id": 5,
+    "nom": "Don Quichotte Rossinante",
+    "manga": "One piece",
+    "image": "Corazon.png",
+    "force": 48,
+    "intelligence": 80,
+    "agilite": 61,
+    "dangerosite": 72
+  },
+  {
+    "id": 6,
+    "nom": "Ken Ryuguji",
+    "manga": "Tokyo revengers",
+    "image": "draken.jpg",
+    "force": 85,
+    "intelligence": 55,
+    "agilite": 66,
+    "dangerosite": 80
+  },
+  {
+    "id": 7,
+    "nom": "Futaro Uesugi",
+    "manga": "Quintessential Quintuplets",
+    "image": "Futaro.jpg",
+    "force": 18,
+    "intelligence": 98,
+    "agilite": 35,
+    "dangerosite": 10
+  },
+  {
+    "id": 8,
+    "nom": "Griffith",
+    "manga": "Berserk",
+    "image": "Griffith.png",
+    "force": 88,
+    "intelligence": 97,
+    "agilite": 72,
+    "dangerosite": 100
+  },
+  {
+    "id": 9,
+    "nom": "Hisoka",
+    "manga": "Hunter x hunter",
+    "image": "Hisoka.jpg",
+    "force": 87,
+    "intelligence": 92,
+    "agilite": 94,
+    "dangerosite": 99
+  },
+  {
+    "id": 10,
+    "nom": "Jiraiya",
+    "manga": "Naruto",
+    "image": "Jiraiya.jpg",
+    "force": 91,
+    "intelligence": 79,
+    "agilite": 86,
+    "dangerosite": 91
+  },
+  {
+    "id": 11,
+    "nom": "Tortue géniale",
+    "manga": "Dragon ball",
+    "image": "KameSennin.png",
+    "force": 89,
+    "intelligence": 81,
+    "agilite": 72,
+    "dangerosite": 94
+  },
+  {
+    "id": 12,
+    "nom": "Kenpachi Zaraki",
+    "manga": "Bleach",
+    "image": "kenpachiBleach.jpg",
+    "force": 100,
+    "intelligence": 53,
+    "agilite": 82,
+    "dangerosite": 100
+  },
+  {
+    "id": 13,
+    "nom": "Lain Iwakura",
+    "manga": "Serial experiment lain",
+    "image": "Lain.png",
+    "force": 15,
+    "intelligence": 100,
+    "agilite": 15,
+    "dangerosite": 100
+  },
+  {
+    "id": 14,
+    "nom": "Lucy",
+    "manga": "Cyberpunk: edgrunners",
+    "image": "Lucy.jpg",
+    "force": 62,
+    "intelligence": 84,
+    "agilite": 95,
+    "dangerosite": 87
+  },
+  {
+    "id": 15,
+    "nom": "Maomao",
+    "manga": "Les carnets de l'apothicaire",
+    "image": "Maomao.jpg",
+    "force": 20,
+    "intelligence": 97,
+    "agilite": 35,
+    "dangerosite": 70
+  },
+  {
+    "id": 16,
+    "nom": "Mikasa Ackerman",
+    "manga": "L'Attaque des titans",
+    "image": "Mikasa.jpg",
+    "force": 84,
+    "intelligence": 72,
+    "agilite": 98,
+    "dangerosite": 91
+  },
+  {
+    "id": 17,
+    "nom": "Misato Katsuragi",
+    "manga": "Neon Genesis Evangelion",
+    "image": "Misato.jpg",
+    "force": 45,
+    "intelligence": 86,
+    "agilite": 52,
+    "dangerosite": 68
+  },
+  {
+    "id": 18,
+    "nom": "Nazuna Nanakusa",
+    "manga": "Call of the night",
+    "image": "Nazuna.jpg",
+    "force": 82,
+    "intelligence": 68,
+    "agilite": 96,
+    "dangerosite": 84
+  },
+  {
+    "id": 19,
+    "nom": "Pack",
+    "manga": "Re: zero",
+    "image": "Pack_ReZero.jpg",
+    "force": 94,
+    "intelligence": 80,
+    "agilite": 75,
+    "dangerosite": 98
+  },
+  {
+    "id": 20,
+    "nom": "Shiryu",
+    "manga": "Saint Seiya",
+    "image": "shiryuDragon.jpg",
+    "force": 97,
+    "intelligence": 78,
+    "agilite": 80,
+    "dangerosite": 99
+  }
+]

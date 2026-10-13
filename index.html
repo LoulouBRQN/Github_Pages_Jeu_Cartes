@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>Top Trump Manga</title><link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <main class="app">
+            <header>
+                <h1>Top Trump Manga</h1><p>Premier à 7 manches gagnées</p>
+            </header>
+
+            <section class="scoreboard">
+                <div class="score"><span>🤖 Ordinateur</span><strong id="computerScore">0</strong></div>
+                <div class="round">Manche <strong id="roundNumber">1</strong> / 13</div>
+                <div class="score"><span>👤 Joueur</span><strong id="playerScore">0</strong></div>
+            </section>
+
+            <section class="status">
+                <h2 id="turnTitle">L'ordinateur attaque</h2><p id="message"></p>
+            </section>
+            <section class="board">
+                <div class="side"><h3>🤖 Ordinateur</h3><div id="computerHand" class="hidden-hand"></div></div>
+                <div class="vs">VS</div>
+                <div class="side"><h3>👤 Joueur</h3><div id="playerHand" class="hand"></div></div>
+            </section>
+            <section id="controls" class="controls"></section>
+            <button id="newGame" class="new-game">Nouvelle partie</button>
+        </main>
+        <script src="script.js"></script>
+    </body>
+</html>
